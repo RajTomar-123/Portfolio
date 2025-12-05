@@ -78,19 +78,22 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Task-Flow-System',
-        description: 'Web Design',
-        bgImage: '/work-1.png',
-    },
-    {
         title: 'Ai-Short-Video-Generator',
         description: 'Web Design',
         bgImage: '/work-2.png',
+        link: "https://ai-youtube-short-video-generator-three.vercel.app"
+    },
+     {
+        title: 'Task-Flow-System',
+        description: 'Web Design',
+        bgImage: '/work-1.png',
+        link: "https://task-flow-system-xi.vercel.app"
     },
     {
         title: 'Virtual-Assistant',
         description: 'Web Design',
         bgImage: '/work-3.png',
+        link: "https://virtual-assistant-mu-six.vercel.app"
     },
 ]
 
